@@ -1,4 +1,4 @@
-package basics_variables_operators;
+package control_flow_if_else_loops;
 
 public class PrintNumbersOneToTen {
     public static void main(String[] args) {
