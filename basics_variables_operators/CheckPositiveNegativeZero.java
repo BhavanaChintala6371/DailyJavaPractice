@@ -1,4 +1,4 @@
-// Import only the Scanner class to keep the code light and explicit
+package basics_variables_operators;
 import java.util.Scanner;
 
 public class CheckPositiveNegativeZero {
