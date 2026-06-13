@@ -1,4 +1,4 @@
-package basics_variables_operators;
+package control_flow_if_else_loops;
 import java.util.Scanner;
 
 public class CheckPositiveNegativeZero {
